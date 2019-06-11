@@ -3,8 +3,7 @@
 
 """
 抓取英雄联盟英雄全皮肤
-author: simeno
-date: 2018-11-13
+author: xzs
 """
 
 import requests
